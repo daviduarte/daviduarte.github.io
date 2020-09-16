@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/daviduarte/daviduarte.github.me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I was born on 21 February 1996 in Rio Claro,  Sao Paulo - Brazil.  I received a MSc degree in Computer Science from the Sao Paulo State University (UNESP) in 2020 and a BSc degree from the same University in 2017. My main areas of research interest are Machine Learning, Computer Vision, Deep Learning and Image Processing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Education
+
+### MSc in Computer Science
+Sao Paulo State University (UNESP)
+During my master, I researched about Deep Learning applied in Breast Tomosynthesis Images reconstruction. I proposed a new [method](https://github.com/daviduarte/DeepLearningDBT) for reconstructing a 3D image from inner breast, given a set of 2Dimages (projections).
+
+### BSc in Computer Science
+Sao Paulo State University (UNESP)
+In my final paper, I researched objective measures clustering approaches to filters interesting association rules.
+
 
 ### Markdown
 
