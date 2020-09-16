@@ -3,7 +3,21 @@
 I was born on 21 February 1996 in Rio Claro,  Sao Paulo - Brazil.  I received a MSc degree in Computer Science from the Sao Paulo State University (UNESP) in 2020 and a BSc degree from the same University in 2017. My main areas of research interest are Machine Learning, Computer Vision, Deep Learning and Image Processing.
 
 
-## Education
+## Projects
+
+
+### Deep Learning Based Digital Breast Tomosynthesis Reconstrction
+In this project, I developed a new tool to generate Digital Breast Tomosynthesis images from a set of projections. This software was the result of my master thesis.
+
+### Data Analysis in Motocycles Ads
+In this project, I implement a Web Scrapper and a Linear Regression Model to analyse the motocycle classified ads in the OLX.com.br site (platform widely used in Brazil) to find good deals. The construction of this tool is [detailed here](https://medium.com/ensinando-m%C3%A1quinas/coleta-e-an%C3%A1lise-de-dados-de-motos-no-olx-6d0fd914853b).
+
+### IA based Snake Game 
+In my [YouTube channel](https://www.youtube.com/user/TyzzyNNN), I make artificial intelligence based projects (using techniques such as Artificial Neural Networks, Genetic Algorithms, Deep Learning, etc.) designed to present practical concepts of artificial intelligence and machine learning to the Brazilian computing community
+
+
+
+
 
 ### MSc in Computer Science
 Sao Paulo State University (UNESP)
