@@ -23,14 +23,17 @@ This is my YouTube channel where I develop interesting computing projects and ta
 
 ### AI based Snake Game 
 In this project, I implement the Snake Game that plays automatically. I used a Fully Connected Artificial Neural Network (FCANN) as the model and Genetic Algorithm to find the best weights of the FCANN. The result and more details can be found in my [YouTube channel](https://youtu.be/0WVAWjVOygE)
+
 ![Image](images/snake.png)
 
 ### Piano Tiles BOT
 I developed a BOT that plays the Piano Tiles game. This projetc aims to demonstrate that sometimes classical Image Processing techniques may be used without Deep Neural Networks to solve a problem. 
+
 ![Image](images/piano_tiles.jpg)
 
 ### AI plays Asteroids
 Here I developed a simple Fully Connected Artificial Neural Network (FCANN) optimized through a Genetic Algorithm that plays the Asteroids Atari Game.
+
 ![Image](images/asteroids.png)
 
 
