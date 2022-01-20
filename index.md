@@ -1,7 +1,7 @@
 # Projects
 
 ## Deep Learning Based Digital Breast Tomosynthesis Reconstrction
-I developed a [new tool](https://github.com/daviduarte/DBTProjectionsNoiseDiscovery) to generate Digital Breast Tomosynthesis images from a set of projections. This software is the result of my master thesis. I implemented the well-known algorithm in the medical imaging litarature named Filtered Backprojection in the form of a Neural Network layer, using Tensorflow. For that, I had to create a new operation in Tensorflow, using its low-level API. I used GPU to became this operation efficient (using CUDA Kernels). In this project, I worked directly with Deep Learning, Tensorflow (efficient operations implementations using GPGPU), theorical computer vision concepts like image processing, image synthesis, projection matrices and noise filtering.
+I developed a [new tool](https://github.com/daviduarte/DeepLearningDBT) to generate Digital Breast Tomosynthesis images from a set of projections. This software is the result of my master thesis. I implemented the well-known algorithm in the medical imaging litarature named Filtered Backprojection in the form of a Neural Network layer, using Tensorflow. For that, I had to create a new operation in Tensorflow, using its low-level API. I used GPU to became this operation efficient (using CUDA Kernels). In this project, I worked directly with Deep Learning, Tensorflow (efficient operations implementations using GPGPU), theorical computer vision concepts like image processing, image synthesis, projection matrices and noise filtering.
 ![Image](images/dbt.png)
 
 ## CamNuvem - Artificial Inteligence Based Video Surveillance
@@ -18,6 +18,13 @@ In the CamNuvem, experiments showed that use multiple simple Virtual Machines (V
 In this project, I implement a Web Scrapper and a Linear Regression Model to analyse the motocycle classified ads in the OLX.com.br (platform widely used in Brazil) to find good deals. The construction of this tool is [detailed here](https://medium.com/ensinando-m%C3%A1quinas/coleta-e-an%C3%A1lise-de-dados-de-motos-no-olx-6d0fd914853b).
 ![Image](images/olx_data_science.png)
 
+## Ensinando Máquinas
+This is my YouTube channel where I develop interesting computing projects and talk about tech subjects. 
+
 ## IA based Snake Game 
 In this project, I implement the Snake Game that plays automatically. I used a Fully Connected Artificial Neural Network (FCANN) as the model and Genetic Algorithm to find the best weights of the FCANN. The result and more details can be found in my [YouTube channel](https://youtu.be/0WVAWjVOygE)
 ![Image](images/snake.png)
+
+
+### Piano Tiles BOT
+![Image](images/piano_tiles.jpg)
