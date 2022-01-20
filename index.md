@@ -29,7 +29,7 @@ In this project, I implement the Snake Game that plays automatically. I used a F
 #### Piano Tiles BOT
 I developed a BOT that plays the Piano Tiles game. This projetc aims to demonstrate that sometimes classical Image Processing techniques may be used without Deep Neural Networks to solve a visual problem. The code is available [here](https://github.com/daviduarte/PianoTilesBot).
 
-![Image](images/piano_tiles.jpg =100x400)
+![Image](images/piano_tiles.jpg)
 
 #### AI plays Asteroids
 Here I developed a simple Fully Connected Artificial Neural Network (FCANN) optimized through a Genetic Algorithm that plays the Asteroids Atari Game. The code is available [here](https://github.com/daviduarte/AsteroidsIA).
